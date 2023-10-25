@@ -1,3 +1,4 @@
+Flask Flask-Dance[all]
 Flask
 gunicorn
 requests
